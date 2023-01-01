@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunil Kumar 
 - 👀 I’m interested in machine learning and data science applications
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me on sunwritings4@gmail.com
+- 📫 you can reach me on sunwritings4@gmail.com
 
 <!---
 sunilwritings/sunilwritings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
